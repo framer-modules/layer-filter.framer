@@ -1,9 +1,12 @@
-###
+'''
 Layer filter effect
 
-@auther threeword (dev@threeword.com)
+@auther Jungho Song (threeword.com)
 @since 2016.07.08
-###
+'''
+
+# Image Source
+SOURCE = "images/icon-192.png"
 
 # Constant
 DEFINED = 
@@ -40,7 +43,7 @@ box = new Layer name: 'box', parent: body
 image = new Layer name: 'image', parent: box
 	, x: Align.center, y: Align.center
 	, width: 192, height: 192
-	, image: "images/icon-192.png"
+	, image: SOURCE
 	, backgroundColor: '', color: 'white'
 		
 # Button : Set default value
