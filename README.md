@@ -78,7 +78,7 @@
 image = new Layer
     point: Align.center
     size: 192
-    image: "framer/images/icon-192.png"
+    image: "images/icon-192.png"
     brightness: 100
     saturate: 100
     hueRotate: 0
