@@ -3,6 +3,9 @@
 
 <br/>
 
+데모 : https://framer-modules.github.io/layer-filter.framer/   
+> 슬라이드를 이용하여 속성값을 변경하여 실시간 확인   
+
 ## 미리보기
 
 <br/>
@@ -24,8 +27,9 @@
 <br/>
 
 ## 사용
-미리보기에서 나온 수치를 프로토타입 개발 시 레이어 속성으로 설정  
-> 레이어 속성에 대한 기본 설정은 [FramerJS Docs - Layer](https://framer.com/docs/#layer.layer) 를 참고하세요.  
+[데모](https://framer-modules.github.io/layer-filter.framer/)에서 나온 수치를 프로토타입 개발 시 레이어 속성으로 설정  
+> 레이어 속성에 대한 기본 설정은 [FramerJS Docs - Layer](https://framer.com/docs/#layer.layer) 를 참고하세요.  
+`또는 소스 다운로드 후 미리보기 이미지를 변경 후 적용해 볼 수 있습니다.`
 
 <br/>
 
@@ -65,3 +69,18 @@
 [Number] 갈색조
 - 범위 : 0 ~ 100
 - 기본값 : 0  
+
+## 예제코드
+```coffeescript
+image = new Layer
+    point: Align.center
+    size: 192
+    image: "framer/images/icon-192.png"
+    brightness: 100
+    saturate: 100
+    hueRotate: 0
+    contrast: 100
+    invert: 0
+    grayscale: 0
+    sepia: 0
+```
