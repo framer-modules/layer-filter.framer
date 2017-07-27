@@ -73,6 +73,8 @@
 - 범위 : 0 ~ 100
 - 기본값 : 0  
 
+<br/>
+
 ## 예제코드
 ```coffeescript
 image = new Layer
