@@ -31,8 +31,8 @@
 
 ## 사용
 [데모](https://framer-modules.github.io/layer-filter.framer/)에서 나온 수치를 프로토타입 개발 시 레이어 속성으로 설정  
-`또는 소스 다운로드 후 미리보기 이미지를 변경 후 적용해 볼 수 있습니다.`  
-_코드의 9번째 라인 SOURCE 값을 변경_  
+또는 소스 다운로드 후 미리보기 이미지를 변경 후 적용해 볼 수 있습니다.  
+`_코드의 9번째 라인 SOURCE 값을 변경_`  
 ```coffeescript
 # Image Source
 SOURCE = "images/icon-192.png"
