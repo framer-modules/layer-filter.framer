@@ -27,6 +27,8 @@
 미리보기에서 나온 수치를 프로토타입 개발 시 레이어 속성으로 설정  
 > 레이어 속성에 대한 기본 설정은 [FramerJS Docs - Layer](https://framer.com/docs/#layer.layer) 를 참고하세요.  
 
+<br/>
+
 ## APIs
 ### 레이어 속성
 #### [Layer.brightness](https://framer.com/docs/#layer.brightness)
