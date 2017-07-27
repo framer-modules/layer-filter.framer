@@ -9,6 +9,7 @@
 <br/>
 
 ## 미리보기
+![preview](https://media.giphy.com/media/3o8dFrlY40SdjEIbMQ/giphy.gif)
 
 <br/>
 
