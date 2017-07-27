@@ -29,7 +29,7 @@
 <br/>
 
 ## 사용
-[데모](https://framer-modules.github.io/layer-filter.framer/)에서 나온 수치를 프로토타입 개발 시 레이어 속성으로 설정  
+[데모](https://framer-modules.github.io/layer-filter.framer/)에서 나온 수치를 프로토타입 개발 시 레이어 속성으로 설정  
 `또는 소스 다운로드 후 미리보기 이미지를 변경 후 적용해 볼 수 있습니다.`  
 > 레이어 속성에 대한 기본 설정은 [FramerJS Docs - Layer](https://framer.com/docs/#layer.layer) 를 참고하세요.  
 
