@@ -80,7 +80,7 @@
 image = new Layer
     point: Align.center
     size: 192
-    image: "images/icon-192.png"
+    image: "이미지경로"
     brightness: 100
     saturate: 100
     hueRotate: 0
